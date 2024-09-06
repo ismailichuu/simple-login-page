@@ -1,1 +1,1 @@
-# simple-login-page
+Simple modern login page
